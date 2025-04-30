@@ -1,7 +1,7 @@
-import './assets/main.css'
-
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
+
+import './assets/main.css'
 
 import moment from 'moment';
 
